@@ -5,4 +5,4 @@ eureka :
     instance :
        preferIpAddress : true
        
-  pandi : sundaram
+pandi : sundaram
